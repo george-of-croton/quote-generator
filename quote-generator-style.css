@@ -1,0 +1,35 @@
+
+.title h1 {
+	width: 75%;
+	margin: 0 auto;
+	margin-bottom: 3%;
+	background-color: #ed1c16;
+	text-align: center;
+	border-radius: 4px;
+	color:white;
+
+}
+
+.title h6 {
+	width:45%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#quote-container{
+	width: 40%;
+	max-height: %;
+	margin: 0 auto;
+	margin-top: 5%;
+	margin-bottom: 15%;
+	text-align: center;
+
+	
+}
+
+#quote-container input #clickMe{
+	max-width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
